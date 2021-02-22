@@ -8,6 +8,7 @@ gem 'rails', '~> 5.2.4', '>= 5.2.4.5'
 gem 'devise'
 gem "refile", require: "refile/rails", github: 'manfe/refile'
 gem "refile-mini_magick"
+gem 'kaminari','~> 1.2.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
